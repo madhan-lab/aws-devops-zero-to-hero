@@ -1,6 +1,6 @@
 from flask import Flask
 
-#build app new1
+#build app new1, update pipeline role policy
 
 app = Flask(__name__)
 
